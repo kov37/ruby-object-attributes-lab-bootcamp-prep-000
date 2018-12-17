@@ -1,4 +1,4 @@
-def dog 
+class Dog 
   def name=(nom)
     @name = nom
   end
@@ -15,5 +15,3 @@ def dog
     @breed
   end
 end
-
-def 
